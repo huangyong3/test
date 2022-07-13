@@ -1,4 +1,12 @@
 ssh git01
+<<<<<<< HEAD
 
 class test:
     pass
+=======
+0503-0 冲突
+0711
+
+class test:
+    pass
+>>>>>>> origin/0503-0
