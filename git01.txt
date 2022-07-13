@@ -1,3 +1,6 @@
 ssh git01
 0503-0 冲突
 0711
+
+class test:
+    pass
