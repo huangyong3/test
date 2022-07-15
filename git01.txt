@@ -1,5 +1,10 @@
 ssh git01
 
+<<<<<<< HEAD
 class test:
     name = "off"
     allowed = []
+=======
+if __name__ == "__main__":
+    pass
+>>>>>>> origin/0503-1
